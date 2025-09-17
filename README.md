@@ -1,2 +1,2 @@
 # EECS348_Lab03_Ammons
-This lab touches on HTML, JavaScript, CSS, and PHP.
+This is the submission for Lab 3 practices 1-4.

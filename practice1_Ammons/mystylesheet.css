@@ -1,0 +1,18 @@
+h1 {
+   color: green; 
+   font-family: serif;
+   font-size: 30pt; 
+   border-style: solid;
+   border-width: 10px;
+   border-color: green;
+   background-color: black;
+   text-align: center;  
+}
+
+
+body {
+     color: green; 
+     text-align: center;
+     background-color:black;
+     font-size: 18pt;     	
+}
